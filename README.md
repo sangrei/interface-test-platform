@@ -98,14 +98,6 @@
     - 其与业务的交互逻辑如下
     
       <img src="./images/xxl-job.png" />
-  
-  
-
-# 其他
-
-- 项目及相关测试技术学习，请关注柠檬班公众号
-
-  <img src="./images/lemon.png" />
 
 # 感谢
 
