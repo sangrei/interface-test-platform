@@ -2,7 +2,7 @@
 
 <div align="center" style="font-size:32px;font-weight:bold;"><img src="./images/logo.png"  align="center" style="width:200px;height:180px" /></div>
 <div align="center" ><h1>柠檬班接口自动化测试平台</h1></div>
-《柠檬班接口自动化测试平台》是一个针对REST接口进行自动化测试的平台，在该平台上，能实现一站式的接口自动化测试工作。
+《REST口自动化测试平台》是一个针对REST接口进行自动化测试的平台，在该平台上，能实现一站式的接口自动化测试工作。
 
 # 主要功能
 
