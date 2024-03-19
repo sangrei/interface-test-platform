@@ -1,0 +1,277 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html,
+body,
+#app,
+.wrapper {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+
+body {
+	font-family: 'PingFang SC', "Helvetica Neue", Helvetica, "microsoft yahei", arial, STHeiTi, sans-serif;
+}
+
+a {
+	text-decoration: none
+}
+
+
+
+/*  修改弹框样式 */
+.el-dialog{
+		border-radius: 10px !important;
+		box-shadow: 0 0 10px #55aaff !important;
+		border: solid 1px #55aaff !important;
+		
+	}
+.el-dialog .el-dialog__body{
+	padding: 10px 30px;
+}
+/*弹窗底部按钮右对齐*/
+.dialog-footer {
+	text-align: right;
+  }
+/* 页面标题描述 */
+.descTitle {
+	height: 60px;
+	width: 100%;
+	text-align: center;
+	border-bottom: 1px solid #e5e5e5;
+	margin-bottom: 15px;
+
+}
+
+.descTitle .box {
+	width: 200px;
+	font: bold 24px/50px "microsoft sans serif";
+	border: 1px dashed #96C2F1;
+	border-radius: 8px;
+	background-color: #EFF7FF;
+	color: #999999;
+	margin: 0 auto;
+}
+
+/* 滑块样式设置 */
+.scro {
+	overflow: auto;
+	width: 100%;
+	height: 400px;
+	overflow: auto;
+	float: left;
+	margin: 5px;
+	border: none
+}
+
+.scro::-webkit-scrollbar {
+	/*滚动条整体样式*/
+	width: 10px;
+	/*高宽分别对应横竖滚动条的尺寸*/
+	/* height: 1px; */
+}
+
+.scro::-webkit-scrollbar-thumb {
+	/*滚动条里面小方块*/
+	border-radius: 1px;
+	-webkit-box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.2);
+	background: #00aaff;
+	border-radius: 10px;
+	height: 10px;
+
+}
+
+.scro::-webkit-scrollbar-track {
+	/*滚动条里面轨道*/
+	-webkit-box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.2);
+	border-radius: 10px;
+	background: #EDEDED;
+
+}
+
+.content-box {
+	position: absolute;
+	left: 210px;
+	right: 0;
+	top: 70px;
+	bottom: 0;
+	padding-bottom: 30px;
+	-webkit-transition: left .3s ease-in-out;
+	transition: left .3s ease-in-out;
+	background: #f0f0f0;
+}
+
+.content {
+	width: auto;
+	height: 100%;
+	padding: 10px;
+	overflow-y: scroll;
+	box-sizing: border-box;
+}
+
+.content-collapse {
+	left: 65px;
+}
+
+.container {
+	padding: 30px;
+	background: #fff;
+	border: 1px solid #ddd;
+	border-radius: 5px;
+}
+
+.crumbs {
+	margin: 10px 0;
+}
+
+.el-table th {
+	background-color: #f5f7fa !important;
+}
+
+.pagination {
+	margin: 20px 0;
+	text-align: right;
+}
+
+.plugins-tips {
+	padding: 20px 10px;
+	margin-bottom: 20px;
+}
+
+.el-button+.el-tooltip {
+	margin-left: 10px;
+}
+
+.el-table tr:hover {
+	background: #f6faff;
+}
+
+.mgb20 {
+	margin-bottom: 20px;
+}
+
+.move-enter-active,
+.move-leave-active {
+	transition: opacity .5s;
+}
+
+.move-enter,
+.move-leave {
+	opacity: 0;
+}
+
+/*BaseForm*/
+
+.form-box {
+	width: 600px;
+}
+
+.form-box .line {
+	text-align: center;
+}
+
+.el-time-panel__content::after,
+.el-time-panel__content::before {
+	margin-top: -7px;
+}
+
+.el-time-spinner__wrapper .el-scrollbar__wrap:not(.el-scrollbar__wrap--hidden-default) {
+	padding-bottom: 0;
+}
+
+/*Upload*/
+
+.pure-button {
+	width: 150px;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+	color: #fff;
+	border-radius: 3px;
+}
+
+.g-core-image-corp-container .info-aside {
+	height: 45px;
+}
+
+.el-upload--text {
+	background-color: #fff;
+	border: 1px dashed #d9d9d9;
+	border-radius: 6px;
+	box-sizing: border-box;
+	width: 360px;
+	height: 180px;
+	text-align: center;
+	cursor: pointer;
+	position: relative;
+	overflow: hidden;
+}
+
+.el-upload--text .el-icon-upload {
+	font-size: 67px;
+	color: #97a8be;
+	margin: 40px 0 16px;
+	line-height: 50px;
+}
+
+.el-upload--text {
+	color: #97a8be;
+	font-size: 14px;
+	text-align: center;
+}
+
+#app .sidebar {
+	top: 73px;
+
+}
+
+.sidebar .el-menu-item,
+.sidebar .el-submenu {
+	border-bottom: 1px solid rgba(170, 163, 163, 0.2);
+}
+
+.sidebar .el-submenu .el-menu-item {
+	border-bottom: none
+}
+
+.el-upload--text em {
+	font-style: normal;
+}
+
+/*VueEditor*/
+
+.ql-container {
+	min-height: 400px;
+}
+
+.ql-snow .ql-tooltip {
+	transform: translateX(117.5px) translateY(10px) !important;
+}
+
+.editor-btn {
+	margin-top: 20px;
+}
+
+/*markdown*/
+
+.v-note-wrapper .v-note-panel {
+	min-height: 500px;
+}
+
+
+/*   菜单页样式设置 */
+#inter_list .el-tabs__item {
+	width: 125px;
+	text-align: center;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+#mmenu .el-menu-item,
+#mmenu .el-submenu__title {
+	height: 40px;
+	line-height: 40px;
+}

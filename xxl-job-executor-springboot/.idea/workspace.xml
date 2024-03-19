@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b748fb8-6d79-44b5-9662-7b2babb8fd81" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="c:\MavenRepository" />
+        <option name="mavenHome" value="C:/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="c:\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1xFoM2Qi1IYVvNfKuAFaXqhVtgM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="XxlJobExecutorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xxl-job-executor-springboot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xxl.job.executor.XxlJobExecutorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b748fb8-6d79-44b5-9662-7b2babb8fd81" name="Default Changelist" comment="" />
+      <created>1629960145809</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629960145809</updated>
+      <workItem from="1629960153602" duration="2254000" />
+      <workItem from="1629962701057" duration="4218000" />
+      <workItem from="1629979107061" duration="28000" />
+      <workItem from="1629979257228" duration="1838000" />
+      <workItem from="1630495848020" duration="770000" />
+      <workItem from="1630653660237" duration="1027000" />
+      <workItem from="1630673295660" duration="1587000" />
+      <workItem from="1634197550536" duration="5577000" />
+      <workItem from="1634276121159" duration="595000" />
+      <workItem from="1634809850427" duration="617000" />
+      <workItem from="1647505247549" duration="576000" />
+      <workItem from="1647676130751" duration="999000" />
+      <workItem from="1647840967883" duration="9000" />
+      <workItem from="1647927770705" duration="636000" />
+      <workItem from="1648027965776" duration="1028000" />
+      <workItem from="1648192158673" duration="759000" />
+      <workItem from="1649683188415" duration="137000" />
+      <workItem from="1649840533481" duration="777000" />
+      <workItem from="1650001619060" duration="2589000" />
+      <workItem from="1650091264808" duration="17000" />
+      <workItem from="1650610345484" duration="598000" />
+      <workItem from="1650612584209" duration="17000" />
+      <workItem from="1653978222399" duration="3352000" />
+      <workItem from="1661159516785" duration="661000" />
+      <workItem from="1661324319348" duration="1400000" />
+      <workItem from="1661345359002" duration="967000" />
+      <workItem from="1661495271267" duration="2786000" />
+      <workItem from="1661499967492" duration="25000" />
+      <workItem from="1661520064837" duration="68000" />
+      <workItem from="1661590996286" duration="156000" />
+      <workItem from="1674724376246" duration="952000" />
+    </task>
+    <task id="LOCAL-00001" summary="httpJobHandler执行添加信任所有https证书逻辑，解决调用自定义证书站点失败问题。">
+      <created>1661498252503</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661498252503</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="httpJobHandler执行添加信任所有https证书逻辑，解决调用自定义证书站点失败问题。" />
+    <option name="LAST_COMMIT_MESSAGE" value="httpJobHandler执行添加信任所有https证书逻辑，解决调用自定义证书站点失败问题。" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="352" key="GridCell.Tab.0.bottom" timestamp="1674725902472">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1674725902472" />
+    <state width="1877" height="352" key="GridCell.Tab.0.center" timestamp="1674725902472">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1674725902472" />
+    <state width="1877" height="352" key="GridCell.Tab.0.left" timestamp="1674725902472">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1674725902472" />
+    <state width="1877" height="352" key="GridCell.Tab.0.right" timestamp="1674725902472">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1674725902472" />
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom" timestamp="1674725902473">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1674725902473" />
+    <state width="1877" height="352" key="GridCell.Tab.1.center" timestamp="1674725902473">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1674725902473" />
+    <state width="1877" height="352" key="GridCell.Tab.1.left" timestamp="1674725902472">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1674725902472" />
+    <state width="1877" height="352" key="GridCell.Tab.1.right" timestamp="1674725902473">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1674725902473" />
+    <state width="1877" height="352" key="GridCell.Tab.2.bottom" timestamp="1674725902473">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.2.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1674725902473" />
+    <state width="1877" height="352" key="GridCell.Tab.2.center" timestamp="1674725902473">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.2.center/0.0.1920.1050@0.0.1920.1050" timestamp="1674725902473" />
+    <state width="1877" height="352" key="GridCell.Tab.2.left" timestamp="1674725902473">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.2.left/0.0.1920.1050@0.0.1920.1050" timestamp="1674725902473" />
+    <state width="1877" height="352" key="GridCell.Tab.2.right" timestamp="1674725902473">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.2.right/0.0.1920.1050@0.0.1920.1050" timestamp="1674725902473" />
+    <state x="463" y="170" key="SettingsEditor" timestamp="1674724472204">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="463" y="170" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1674724472204" />
+  </component>
+</project>
